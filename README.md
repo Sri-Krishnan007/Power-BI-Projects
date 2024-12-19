@@ -1,10 +1,10 @@
-Sales Performance Analysis - Power BI Dashboard 📊
+# Sales Performance Analysis - Power BI Dashboard 📊
 
-Overview 🏷️
+# Overview 🏷️
 
 This repository contains a Power BI Dashboard for Sales Performance Analysis. It highlights key metrics such as total sales, profit, discounts, and quantity sold. The dashboard provides actionable insights through interactive visuals for better business decisions.
 
-Key Features ✨
+# Key Features ✨
 
 Sales Insights: Monthly, quarterly, and yearly sales trends.
 
@@ -16,7 +16,7 @@ Regional Performance: Sales by geographic regions.
 
 Shipping Analysis: Insights by shipping mode.
 
-Use Cases 💼
+# Use Cases 💼
 
 Sales Teams: Track sales performance and set future targets.
 
@@ -24,7 +24,7 @@ Business Analysts: Identify profitable products and underperforming categories.
 
 Executives: Make data-driven business decisions.
 
-Installation and Setup 🚀
+# Installation and Setup 🚀
 
 Step 1: Install Power BI Desktop 🖥️
 
@@ -50,11 +50,11 @@ Use filters, slicers, and interactive visuals.
 
 Analyze specific time periods, products, and shipping methods.
 
-Contributing 🤝
+# Contributing 🤝
 
 Contributions are welcome! Feel free to submit issues or create pull requests.
 
-License 📜
+# License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
