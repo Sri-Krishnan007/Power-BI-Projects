@@ -1,7 +1,4 @@
-
-
-
-Sales Performance Analysis - Power BI Dashboard 📊
+#Sales Performance Analysis - Power BI Dashboard 📊#
 
 Overview 🏷️
 
@@ -61,7 +58,5 @@ License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📧
 
-For queries or suggestions, please contact [your email here].
 
